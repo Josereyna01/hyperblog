@@ -4,3 +4,5 @@ Un blog increible para el curso de Git y Github de platzi
 >- lancer Evolution X
  ## en este curso aprenderemos a tunnear
  * creado x jose
+ * incluye tunnes de CPU
+ * Para todas los lancer
